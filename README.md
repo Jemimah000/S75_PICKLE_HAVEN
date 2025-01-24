@@ -30,11 +30,7 @@ Pickle Haven is an online platform where people can browse, explore, and purchas
 
 **Database:** MongoDB for managing product details, user accounts, and orders.
 
-**Authentication:** JWT for secure user login and sessions.
-
 **Deployment:** Frontend on Netlify and backend on Heroku.
-
-**Additional Tools:** Postman for testing APIs, Material-UI for styling, and Axios for API communication.
 
 **Why This Project:**
 --
